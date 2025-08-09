@@ -162,4 +162,4 @@ pnpm dev
 
 ---
 
-**Built with ❤️ for Walmart Sparkathon 2024**
+**Built with ❤️ for Walmart Sparkathon 2025**
